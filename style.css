@@ -571,6 +571,7 @@ section{
         font-size: 12px;
     }
 }
+<<<<<<< HEAD
 
 
 @media(max-width:530px){
@@ -584,4 +585,8 @@ section{
     .nav-right a{
         margin-right: 7px;
     }
+=======
+.btnnn{
+    border-radius: 5px;
+>>>>>>> 34cbf46615e492cfdacc5d2822aecf3d8ee94701
 }
